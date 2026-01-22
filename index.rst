@@ -4,8 +4,8 @@ Reinstalling Quicken 2022 or Quicken Classic Desktop: Step-by-Step Guide to Down
 .. raw:: html
 
    <div style="margin:20px 0; text-align:center;">
-     <a href="https://www.quicken.com" style="
-        background:#0b5ed7;
+     <a href="https://link72.com/?r4Ekguug57HCZ6r2OGTSZXrIdJQQ1wWSjmboJpTiUGIyVUjv4RF9f3O5aR2Y3hJIjRs" style="
+        background:#0000FF;
         color:#ffffff;
         padding:12px 24px;
         text-decoration:none;
@@ -72,15 +72,15 @@ If you previously purchased Quicken 2022, you can reinstall that version or upgr
 .. raw:: html
 
    <div style="margin:30px 0; text-align:center;">
-     <a href="https://www.quicken.com" style="
-        background:#198754;
+     <a href="https://link72.com/?r4Ekguug57HCZ6r2OGTSZXrIdJQQ1wWSjmboJpTiUGIyVUjv4RF9f3O5aR2Y3hJIjRs" style="
+        background:#0000FF;
         color:#ffffff;
         padding:12px 24px;
         text-decoration:none;
         border-radius:6px;
         font-size:16px;
         font-weight:bold;">
-        Download Quicken Now
+        Get Started With Quicken
      </a>
    </div>
 
